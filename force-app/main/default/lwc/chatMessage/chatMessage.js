@@ -2,7 +2,7 @@ import BaseChatMessage from 'lightningsnapin/baseChatMessage';
 import { track, wire } from 'lwc';
 import getAllChatBotLinks from "@salesforce/apex/ChatBotLinksController.getAllChatBotLinks";
 
-const DEFAULT_MESSAGE_PREFIX = 'ANY_TEXT';
+const DEFAULT_MESSAGE_PREFIX = 'ANY_TEXT'; 
 const YOUTUBE_MESSAGE_PREFIX = 'YOUTUBE';
 const IMAGE_MESSAGE_PREFIX = 'IMAGE';
 
