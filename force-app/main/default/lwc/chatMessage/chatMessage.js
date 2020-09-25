@@ -77,7 +77,7 @@ export default class ChatMessage extends BaseChatMessage  {
     }
 
     get isAnyText() {
-        return (this.messageType === ANY_TEXT);
+        return (this.messageType === DEFAULT_MESSAGE_PREFIX);
     }
 
     get isYoutube() {
