@@ -1,1 +1,1 @@
-[]
+[{"_allAttributes":null,"_properties":null,"_methods":null,"file":"/home/codespace/sfdcdev002-1/force-app/main/default/lwc/chatMessage/chatMessage.js","metadata":{"decorators":[{"type":"wire","targets":[{"name":"wiredChatbotlinks","adapter":{"name":"getAllChatBotLinks","reference":"@salesforce/apex/ChatBotLinksController.getAllChatBotLinks"},"type":"method"}]},{"type":"track","targets":[{"name":"content","type":"property"},{"name":"chatbotlinks","type":"property"}]}],"exports":[{"type":"ExportDefaultDeclaration"}]},"updatedAt":"2020-09-26T08:55:49.338Z"}]
