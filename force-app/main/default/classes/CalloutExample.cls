@@ -1,4 +1,4 @@
-global class MyEmailHandler {
+global class CalloutExample {
   global static void makeCallout(){
     Http http = new Http();
     HttpRequest request = new HttpRequest();
